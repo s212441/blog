@@ -1,0 +1,4 @@
+[submodule "socialgraphs/public"]
+	path = socialgraphs/public
+	url = https://github.com/s212441/s212441.github.io.git
+	branch = main
